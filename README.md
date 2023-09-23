@@ -1,4 +1,6 @@
 # Machine-learning-Zero-to-Hero Burn the boats of Artificial intelligence
+![images (1)](https://github.com/MalikZeeshan1122/Machine-learning-Zero-to-Hero/assets/130128211/268ba169-2771-4af7-b49e-55aa8ea871f3)
+
 # 100 DAYS ML 
 # Burn the Boats of Artificial Intelligence
 Machine learning is a subfield of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computer systems to learn and make predictions or decisions without being explicitly programmed for each task. 
