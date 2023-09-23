@@ -12,10 +12,14 @@ Machine learning models aim to automate the process of learning patterns and rel
 
 # Types of Learning:
 
-# Supervised Learning:In supervised learning, the algorithm is trained on labeled data, where each example in the dataset is associated with a known target or outcome. The goal is to learn a mapping from inputs to outputs.
-# Unsupervised Learning: Unsupervised learning deals with unlabeled data. It aims to discover hidden patterns, group similar data points, or reduce the dimensionality of data without explicit supervision.
-# Reinforcement Learning: Reinforcement learning involves an agent interacting with an environment and learning to take actions that maximize a reward signal. It's often used in decision-making tasks.
-# Semi-Supervised Learning and Self-Supervised Learning: These are hybrid approaches that combine elements of supervised and unsupervised learning for scenarios with limited labeled data.
+# Supervised Learning:
+In supervised learning, the algorithm is trained on labeled data, where each example in the dataset is associated with a known target or outcome. The goal is to learn a mapping from inputs to outputs.
+# Unsupervised Learning:
+Unsupervised learning deals with unlabeled data. It aims to discover hidden patterns, group similar data points, or reduce the dimensionality of data without explicit supervision.
+# Reinforcement Learning:
+Reinforcement learning involves an agent interacting with an environment and learning to take actions that maximize a reward signal. It's often used in decision-making tasks.
+# Semi-Supervised Learning and Self-Supervised Learning: 
+These are hybrid approaches that combine elements of supervised and unsupervised learning for scenarios with limited labeled data.
 # Algorithms:
 Machine learning uses a variety of algorithms, including linear regression, decision trees, random forests, neural networks, support vector machines, k-means clustering, and many others. The choice of algorithm depends on the nature of the problem and the data.
 
