@@ -40,3 +40,35 @@ Recommendation Systems: To suggest products, movies, or content to users.
 Challenges: Machine learning faces challenges like overfitting, data quality, interpretability, fairness, and ethical concerns, which need to be addressed in the development and deployment of ML models.
 
 Machine learning has seen rapid advancements and has become an integral part of various industries, transforming the way we analyze data, make decisions, and interact with technology. It continues to evolve with breakthroughs in deep learning, reinforcement learning, and other subfields, promising even more powerful AI applications in the future.
+# Simple Linear Regression:
+
+Import necessary libraries (e.g., NumPy, pandas, scikit-learn).
+Load your dataset.
+Extract the independent variable (X) and dependent variable (Y).
+Split the dataset into training and testing sets.
+Create a linear regression model.
+Fit the model to the training data.
+Make predictions using the test data.
+Evaluate the model using metrics like Mean Squared Error (MSE) or R-squared.
+
+# Multiple Linear Regression:
+
+Import necessary libraries.
+Load your dataset.
+Extract multiple independent variables (X) and the dependent variable (Y).
+Split the dataset into training and testing sets.
+Create a multiple linear regression model.
+Fit the model to the training data.
+Make predictions using the test data.
+Evaluate the model using metrics like MSE or R-squared.
+
+# Support Vector Regression (SVR):
+
+Import necessary libraries.
+Load your dataset.
+Extract the independent variable (X) and dependent variable (Y).
+Split the dataset into training and testing sets.
+Create an SVR model.
+Fit the model to the training data.
+Make predictions using the test data.
+Evaluate the model using metrics like MSE or R-squared.
