@@ -40,4 +40,9 @@ Recommendation Systems: To suggest products, movies, or content to users.
 Challenges: Machine learning faces challenges like overfitting, data quality, interpretability, fairness, and ethical concerns, which need to be addressed in the development and deployment of ML models.
 
 Machine learning has seen rapid advancements and has become an integral part of various industries, transforming the way we analyze data, make decisions, and interact with technology. It continues to evolve with breakthroughs in deep learning, reinforcement learning, and other subfields, promising even more powerful AI applications in the future.
-
+# ADD A CODE IN TEXT TO GIVE A IMAMGE 
+<p style="text-align:center">
+    <a href="https://skills.network" target="_blank">
+    <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/assets/logos/SN_web_lightmode.png" width="200" alt="Skills Network Logo">
+    </a>
+</p>
